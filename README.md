@@ -3,7 +3,7 @@ This repo contains code of Scavenger Hunt - assignment given by Super Procure.
 
 ## Get started
 ### For Live Demo
-* Visit [ScvengerHunt](https://s-hunt.herokuapp.com).
+* Visit [ScvengerHunt](https://scaveng-hunt.herokuapp.com/).
 * For Login check `server/data/BranchManagerPassword.txt` Check server credentials.
 
 ### For Local setup
